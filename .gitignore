@@ -1,0 +1,24 @@
+# VS Code
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Environment variables
+.env
+.env.local
+
+# Node.js dependencies (if added in the future)
+node_modules/
+
+# Build/output directories (if added in the future)
+dist/
+build/
