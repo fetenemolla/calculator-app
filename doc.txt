@@ -6,7 +6,13 @@ how to run git using terminal?
 4. copy the ssh file of the repositry to clone it for working locally
 5. the use << git clone 'paste https file  or ssh file (if u have key) here' and then enter
               git clone https://github.com/fetenemolla/calculator-app.git 
-6.
+==========================================================================================
+------------------------git commands-----------------------------------------------------
+=========================================================================================
+6. git add . -> to add all task we add instead of a single file like git add index.html
+   git commit -m"add description about the task you add here "
+   git log  -> to show task logs  we did 
+   git remote -v
 7.
 8.
 9.
