@@ -14,7 +14,7 @@ how to run git using terminal?
    git log  -> to show task logs  we did 
    git remote -v
 7. git pull -> to make other team changes to our local 
-8.
+8. git branch
 9.
 10.
 11.
