@@ -1,0 +1,25 @@
+how to run git using terminal?
+==============================
+1. create a git account and create a repositry for doing a task
+2. then install git in your pc 
+3. then on specific directory create folder 
+4. copy the ssh file of the repositry to clone it for working locally
+5. the use << git clone 'paste https file  or ssh file (if u have key) here' and then enter
+              git clone https://github.com/fetenemolla/calculator-app.git 
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
